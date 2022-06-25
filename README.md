@@ -34,6 +34,10 @@ Here are some ideas to get you started:
   </h1>
 </div>
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 ### :man_technologist: About Me :
 - :man_student: Bachelors in Computer Science at National Yang Ming Chiao Tung University(NYCU CS)
 - :telescope: I’m working as a Software Engineer
