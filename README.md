@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - :man_student: Bachelors in Computer Science at National Yang Ming Chiao Tung University(NYCU CS)
 - :telescope: I’m working as a Software Engineer
 - :e-mail: How to reach me : Brad8910@gmail.com
-- [view my resume](https://www.overleaf.com/read/npszqktfzcgz)
+- [view my resume](https://drive.google.com/file/d/10f7_V7r1bWwOH-lNpGOq45KlcQ3iEaqr/view?usp=sharing)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
