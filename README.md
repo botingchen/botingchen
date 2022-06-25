@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   </div>
   <img src="https://komarev.com/ghpvc/?username=botingchen&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Welcome to boting's Github page
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   </h1>
 </div>
