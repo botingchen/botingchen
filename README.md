@@ -38,12 +38,14 @@ Here are some ideas to get you started:
 - :man_student: Bachelors in Computer Science at National Yang Ming Chiao Tung University(NYCU CS)
 - :telescope: I’m working as a Software Engineer
 - :e-mail: How to reach me : Brad8910@gmail.com
-- [view my resume](https://drive.google.com/file/d/10f7_V7r1bWwOH-lNpGOq45KlcQ3iEaqr/view?usp=sharing)
+- :ocean: [view my resume](https://drive.google.com/file/d/10f7_V7r1bWwOH-lNpGOq45KlcQ3iEaqr/view?usp=sharing)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
