@@ -34,4 +34,4 @@ Here are some ideas to get you started:
   </h1>
 </div>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
