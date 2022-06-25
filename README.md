@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 </div>
 
 ### :man_technologist: About Me :
+:man_student: Bachelors in Computer Science at National Yang Ming Chiao Tung University
