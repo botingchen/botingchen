@@ -37,3 +37,4 @@ Here are some ideas to get you started:
 ### :man_technologist: About Me :
 - :man_student: Bachelors in Computer Science at National Yang Ming Chiao Tung University(NYCU CS)
 - :telescope: I’m working as a Software Engineer
+- :e-mail: How to reach me : Brad8910@gmail.com
