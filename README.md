@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **botingchen/botingchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,7 +28,7 @@ Here are some ideas to get you started:
   </div>
   <img src="https://komarev.com/ghpvc/?username=botingchen&style=flat-square&color=blue" alt=""/>
   <h1>
-    Welcome to boting's Github page
+    Welcome to Boting's GitHub Page
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   </h1>
 </div>
