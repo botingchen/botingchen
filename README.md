@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 - :man_student: Bachelors in Computer Science at National Yang Ming Chiao Tung University(NYCU CS)
-- :telescope: C working as a Software Engineer Intern at Intel
+- :telescope: Currently working as a Software Engineer Intern at Intel
 - :e-mail: How to reach me : Brad8910@gmail.com
 - :ocean: [view my resume](https://drive.google.com/file/d/1TTOBc0aj4Vq0Bvog24NcUsQzghSCtK_u/view?usp=sharing)
 ---
