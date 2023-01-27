@@ -66,5 +66,5 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-[![Brad's github stats](https://github-readme-stats.vercel.app/api?username=botingchen&theme=gruvbox)](https://github.com/botingchen/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botingchen&layout=compact&theme=gruvbox)](https://github.com/botingchen/github-readme-stats)
+[![Brad's github stats](https://github-readme-stats.vercel.app/api?username=botingchen&theme=gruvbox&count_private=true)](https://github.com/botingchen/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botingchen&layout=compact&theme=gruvbox&count_private=true)](https://github.com/botingchen/github-readme-stats)
