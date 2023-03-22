@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - :man_student: Bachelors in Computer Science at National Yang Ming Chiao Tung University(NYCU CS)
 - :telescope: Currently working as a Software Engineer Intern at Intel
 - :e-mail: How to reach me : Brad8910@gmail.com
-- :ocean: [view my resume](https://drive.google.com/file/d/1e0dgYljT66onM2guEP62ZL37NEqnQtAy/view?usp=sharing)
+- :ocean: [view my resume](https://drive.google.com/file/d/1kexKcJoIXrUxKX2rCoMGHQ4YJruLR2u0/view?usp=sharing)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
