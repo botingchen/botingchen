@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 </div>
 
 ### :man_technologist: About Me :
-- :man_student: Bachelors in Computer Science at National Yang Ming Chiao Tung University(NYCU CS)
-- :telescope: Currently working as a Software Engineer Intern at Intel
+- :man_student: Master of Computational Data Science at Carnegie Mellon University (CMU MCDS)
+- :telescope: Having worked as a Software Engineer Intern at Intel for over a year
 - :e-mail: How to reach me : Brad8910@gmail.com
 - :ocean: [view my resume](https://drive.google.com/file/d/1kexKcJoIXrUxKX2rCoMGHQ4YJruLR2u0/view?usp=sharing)
 ---
