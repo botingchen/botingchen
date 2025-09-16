@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 - :man_student: Master of Computational Data Science at Carnegie Mellon University (CMU MCDS)
-- :telescope: Incoming SWE intern at Meta. Having worked as a Software Engineer Intern at Intel for over a year
+- :telescope: SWE at Meta. Having worked as a Software Engineer Intern at Intel for over a year
 - :e-mail: How to reach me : ptchen2000@gmail.com
 - :ocean: [view my resume](https://drive.google.com/file/d/1kexKcJoIXrUxKX2rCoMGHQ4YJruLR2u0/view?usp=sharing)
 ---
